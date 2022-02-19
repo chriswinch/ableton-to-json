@@ -1,8 +1,8 @@
 {
-  "name": "ableton-parser",
+  "name": "als-to-json",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "start": "node build/index.js",
     "dev": "ts-node index.ts",
